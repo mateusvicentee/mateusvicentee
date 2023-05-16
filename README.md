@@ -1,4 +1,4 @@
-### Olá! Eu sou o Mateus Vicente.
+### Olá! Eu sou o Mateus Vicente
 
 <div>
   <a href="https://beacons.ai/mateusvicentee">
